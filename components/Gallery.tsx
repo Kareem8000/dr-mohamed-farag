@@ -11,8 +11,8 @@ const Gallery: React.FC = () => {
     // Image 2: Clinic Room
     { src: "https://a.top4top.io/p_36540i0871.jpg", title: "غرفة الكشف" },
     
-    // Image 3: Clinic Facade - Updated URL
-    { src: "https://l.top4top.io/p_365493z041.jpg", title: "واجهة العيادة" },
+    // Image 3: Clinic Facade
+    { src: "https://a.top4top.io/p_36540i0871.jpg", title: "واجهة العيادة" },
   ];
 
   const handleImageError = (e: React.SyntheticEvent<HTMLImageElement, Event>) => {
